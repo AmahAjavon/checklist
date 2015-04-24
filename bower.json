@@ -1,9 +1,9 @@
 {
-  "name": "poseidon",
+  "name": "checklist",
   "version": "0.0.1",
-  "homepage": "https://github.com/coding-house-apr2015/poseidon",
+  "homepage": "https://github.com/amahajavon/checklist",
   "authors": [
-    "Chyld Medford <chyld.medford@gmail.com>"
+    "Amah Ajavon <greatmindsent@gmail.com>"
   ],
   "license": "BSD",
   "dependencies": {
